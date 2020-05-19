@@ -1,8 +1,7 @@
-<<<<<<< HEAD
-New file
-=======
-file commited by Kirti
->>>>>>> fc39a117f8225e4705b05bc63606576af22f9a04
+file committed by Kirti
 
 
 Changes s
+
+
+Next committed 
